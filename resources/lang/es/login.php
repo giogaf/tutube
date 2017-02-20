@@ -10,4 +10,5 @@ return [
     'sign'=>'Ingresar',
     'forgot-password'=>'Recuperar contraseña',
     'register-new'=> 'Crear nueva cuenta',
+    'login'=> 'Ingresar',
 ];
